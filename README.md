@@ -3,7 +3,7 @@
 I am...
 - :school: A 1st-year Ph.D. student advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) at [Computer Science and Engineering Department](https://cse.engin.umich.edu/), University of Michigan, Ann Arbor. Check out our lab website: [SLED Research Lab](https://sled.eecs.umich.edu/).
 - :panda_face: From Chengdu, Sichuan, China.
-- :mag: Working on Natural Language Processing (Grounded Language Processing, Causal Inference, Control and Communication with Embodied Agents) and Machine Learning (Graph Neural Networks, Meta Learning, Semi-Supervised Learning, Knowledge Graphs).
+- :mag: Working on Natural Language Processing (Grounded Language Understanding and Acquisition, Communication with Embodied Agents) and Machine Learning (Graph Neural Networks, Meta Learning, Semi-supervised Learning).
 - :thought_balloon: Trying to be a frequent [blogger](https://mars-tin.github.io/archives/).
 
 You can...
