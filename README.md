@@ -1,10 +1,9 @@
 ### Welcome to Martin's GitHub Homepage!
 
 I am...
-- :school: A rising 2nd-year Ph.D. student advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) at [Computer Science and Engineering Department](https://cse.engin.umich.edu/), University of Michigan, Ann Arbor. Check out our lab website: [SLED Research Lab](https://sled.eecs.umich.edu/).
+- :school: Ph.D. candidate advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) at [Computer Science and Engineering Department](https://cse.engin.umich.edu/), University of Michigan, Ann Arbor. Check out our lab website: [SLED Research Lab](https://sled.eecs.umich.edu/).
 - :panda_face: From Chengdu, Sichuan, China.
-- :mag: Research Interest(s!): Natural Language Processing (Language Grounding, Language Acquisition, Human-Robot Communication), Embodied AI (Navigation, Manipulation, Instruction Following), Machine Learning (Graph Neural Networks, Meta Learning, Semi-supervised Learning).
-- :thought_balloon: I [post](https://mars-tin.github.io/archives/) occasionally.
+- :mag: Research Interest(s!): Natural Language Processing x Embodied AI x Multimodal Interaction.
 
 You can...
 - :e-mail: Drop me an email: marstin \[AT\] umich \[DOT\] edu.
