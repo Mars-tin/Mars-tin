@@ -3,7 +3,7 @@
 I am...
 - :school: Ph.D. candidate advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) at [Computer Science and Engineering Department](https://cse.engin.umich.edu/), University of Michigan, Ann Arbor. Check out our lab website: [SLED Research Lab](https://sled.eecs.umich.edu/).
 - :panda_face: From Chengdu, Sichuan, China.
-- :mag: Research Interest(s!): Natural Language Processing x Embodied AI x Multimodal Interaction.
+- :mag: Research Interest(s) = (Language + Interaction + Embodiment) x Cogsci
 
 You can...
 - :e-mail: Drop me an email: marstin \[AT\] umich \[DOT\] edu.
